@@ -6,4 +6,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu pulvinar risus. V
 
 Aenean dolor tortor, blandit a malesuada vel, pellentesque luctus sem. Cras bibendum mattis ex eget imperdiet. Aliquam placerat diam ac massa aliquam, et tincidunt libero porta. Vivamus congue, dolor quis accumsan luctus, lectus turpis commodo nulla, nec ornare turpis leo nec libero. Sed hendrerit nisl non pharetra scelerisque. Pellentesque id ornare massa, id ornare nibh. Curabitur sit amet tincidunt sem. Donec bibendum magna quis nisi fringilla, vitae efficitur massa molestie. Quisque laoreet sollicitudin augue quis pulvinar. In mattis ipsum vel augue dignissim, quis efficitur urna lacinia. Curabitur accumsan tempus quam ut gravida. Cras ut quam pharetra, mattis turpis at, vehicula erat. Nam id nulla rutrum, aliquam est eget, pulvinar neque. Aliquam varius tincidunt metus. Curabitur lorem enim, tempus nec arcu vitae, vestibulum pellentesque mauris.
 
-## Bibliografia
+## Referências
+
+- Collins, N. (2010). Introduction to computer music. [Hoboken]: John Wiley & Sons. pp. 302
+- https://www.reddit.com/r/learnprogramming/comments/3vj635/what_data_structures_and_algorithms_should_every/
+- slides TP1 - aula 2. relação entre pseudo código e linguagem natural. evidenciar cores entre instruções verbais e etapas do código.
+- https://www.youtube.com/watch?v=5oXyibEgJr0
+- http://jasonpark.me/AlgorithmVisualizer/
