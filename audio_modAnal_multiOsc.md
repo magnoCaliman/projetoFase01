@@ -8,4 +8,4 @@ Aenean dolor tortor, blandit a malesuada vel, pellentesque luctus sem. Cras bibe
 
 ## Referências
 
-- Hosken, D. (2015). Introduction to music technology - second edition. New York: Routledge. pp. 210
+- Hosken, D. (2015). Introduction to music technology - second edition. New York: Routledge. pp. 201-210
