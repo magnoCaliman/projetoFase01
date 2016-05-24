@@ -1,6 +1,5 @@
-# Summary
+# Índice
 
-* [Introduction](README.md)
 * Projetos
 * Áudio
    * Acústica e teoria de áudio
