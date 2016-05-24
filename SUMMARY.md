@@ -1,7 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
+
 * **PROJETOS**
+<p>
 * **ÁUDIO**
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
@@ -34,6 +35,7 @@
        * [Tabela de onda](audio_tabOnda.md)
        * Modelo analógico
            * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
+<p>
 * **PROGRAMAÇÃO**
    * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
