@@ -1,8 +1,9 @@
 # Índice
 
-* Projetos
-
-* Áudio
+<p>
+* **PROJETOS**
+<p>
+* **ÁUDIO**
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
        * [Estágios de ganho](audio_estagiosGanho.md)
@@ -10,7 +11,8 @@
        * [Interferências construtiva e destrutiva](audio_interConsDest.md)
        * [Batimentos](audio_batimentos.md)
        * [Conversão e representação de sinal](audio_conversao.md)
-       * [Relaçao forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
+       * [Relação forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
+<p>
 
    * DSP
        * [DC Offset e multiplicação](audio_dcOffMul.md)
@@ -24,6 +26,7 @@
            * Compressores
                * [Downward / upward](audio_comp_downUp.md)
        * [Sampling](audio_sampling.md)
+<p>
 
    * Síntese
        * [Formas de onda](audio_formasOnda.md)
@@ -36,8 +39,8 @@
        * [Tabela de onda](audio_tabOnda.md)
        * Modelo analógico
            * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
-
-* Programação
+<p>
+* **PROGRAMAÇÃO**
    * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
        * [Variáveis e data types](prog_variaveis.md)
