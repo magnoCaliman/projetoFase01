@@ -1,0 +1,2 @@
+# DC Offset e multiplicação
+
