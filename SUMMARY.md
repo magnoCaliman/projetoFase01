@@ -27,7 +27,7 @@
        * [Formas de onda](audio_formasOnda.md)
        * Modulações
            * [AM / RM](audio_mod_amRM.md)
-           * [PWM](audio_mod_pwm.md)
+           * [PWM](audio_mod_pwm_md)
            * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
        * Aditiva
            * [Espectro fixo](audio_aditiva_espcFixo.md)
