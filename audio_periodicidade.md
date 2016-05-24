@@ -8,4 +8,4 @@ Aenean dolor tortor, blandit a malesuada vel, pellentesque luctus sem. Cras bibe
 
 ## Referências
 
-Collins, N. (2010). Introduction to computer music. [Hoboken]: John Wiley & Sons. pp.12, 87
+- Collins, N. (2010). Introduction to computer music. [Hoboken]: John Wiley & Sons. pp.12, 87
