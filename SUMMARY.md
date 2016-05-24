@@ -3,6 +3,7 @@
 
 * **PROJETOS**
 <p>
+bla bla bla...
 * **ÁUDIO**
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
