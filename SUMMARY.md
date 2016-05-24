@@ -1,6 +1,7 @@
 # Índice
 
 * Projetos
+
 * Áudio
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
@@ -10,6 +11,7 @@
        * [Batimentos](audio_batimentos.md)
        * [Conversão e representação de sinal](audio_conversao.md)
        * [Relaçao forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
+
    * DSP
        * [DC Offset e multiplicação](audio_dcOffMul.md)
        * Filtragem
@@ -22,6 +24,7 @@
            * Compressores
                * [Downward / upward](audio_comp_downUp.md)
        * [Sampling](audio_sampling.md)
+
    * Síntese
        * [Formas de onda](audio_formasOnda.md)
        * Modulações
@@ -33,6 +36,7 @@
        * [Tabela de onda](audio_tabOnda.md)
        * Modelo analógico
            * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
+
 * Programação
    * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
@@ -41,5 +45,3 @@
        * [Argumentos / métodos / mensagens](prog_argMetMnsg.md)
        * [Operadores](prog_operadores.md)
        * [Sintaxe e palavras reservadas](prog_sintaxe.md)
-
-***asdf***
