@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
+* [Como usar esse livro](README.md)
 <p>
-**PROGRAMAÇÃO**
+* [PROGRAMAÇÃO](programacao_indice.md)
  * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
        * [Variáveis e data types](prog_variaveis.md)
