@@ -1,6 +1,7 @@
 # Summary
 
 * [Como usar esse livro](README.md)
+* [**PROJETOS**](projetos.md)
 * [PROGRAMAÇÃO](prog_indice.md)
    * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
@@ -40,5 +41,4 @@
        * [Tabela de onda](audio_tabOnda.md)
        * Modelo analógico
            * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
-* [**PROJETOS**](projetos.md)
 
