@@ -1,16 +1,18 @@
 # Summary
 
 * [Introduction](README.md)
-* **PROGRAMAÇÃO**
-   * Básico
+<p>
+**PROGRAMAÇÃO**
+ * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
        * [Variáveis e data types](prog_variaveis.md)
        * [Recursividade e iteração](prog_recursividade.md)
        * [Argumentos / métodos / mensagens](prog_argMetMnsg.md)
        * [Operadores](prog_operadores.md)
        * [Sintaxe e palavras reservadas](prog_sintaxe.md)
-* **ÁUDIO**
-   * Acústica e teoria de áudio
+<p>
+**ÁUDIO**
+ * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
        * [Estágios de ganho](audio_estagiosGanho.md)
        * [Representações de amplitude](audio_represAmp.md)
