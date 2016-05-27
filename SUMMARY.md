@@ -1,8 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [**PROJETOS**](projetos.md)
-* [**ÁUDIO**](audio_indice.md)
+* * [**PROJETOS**](projetos.md)
+
+* * **ÁUDIO**
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
        * [Estágios de ganho](audio_estagiosGanho.md)
