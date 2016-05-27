@@ -1,9 +1,7 @@
 # Summary
 
-
-* **PROJETOS**
-<p>
-mudança sem commit...
+* [Introduction](README.md)
+* [**PROJETOS**](projetos.md)
 * **ÁUDIO**
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
@@ -36,7 +34,6 @@ mudança sem commit...
        * [Tabela de onda](audio_tabOnda.md)
        * Modelo analógico
            * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
-<p>
 * **PROGRAMAÇÃO**
    * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
