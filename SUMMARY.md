@@ -1,18 +1,15 @@
 # Summary
 
 * [Como usar esse livro](README.md)
-<p>
-* [PROGRAMAÇÃO](programacao_indice.md)
- * Básico
+* [PROGRAMAÇÃO](prog_indice.md)
+   * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
        * [Variáveis e data types](prog_variaveis.md)
        * [Recursividade e iteração](prog_recursividade.md)
        * [Argumentos / métodos / mensagens](prog_argMetMnsg.md)
        * [Operadores](prog_operadores.md)
        * [Sintaxe e palavras reservadas](prog_sintaxe.md)
-<p>
-**ÁUDIO**
- * Acústica e teoria de áudio
+   * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
        * [Estágios de ganho](audio_estagiosGanho.md)
        * [Representações de amplitude](audio_represAmp.md)
@@ -20,7 +17,7 @@
        * [Batimentos](audio_batimentos.md)
        * [Conversão e representação de sinal](audio_conversao.md)
        * [Relação forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
-   * DSP
+           * DSP
        * [DC Offset e multiplicação](audio_dcOffMul.md)
        * Filtragem
            * EQ
@@ -32,7 +29,7 @@
            * Compressores
                * [Downward / upward](audio_comp_downUp.md)
        * [Sampling](audio_sampling.md)
-   * Síntese
+           * Síntese
        * [Formas de onda](audio_formasOnda.md)
        * Modulações
            * [AM / RM](audio_mod_amRM.md)
