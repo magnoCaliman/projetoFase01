@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [**PROJETOS**](projetos.md)
-* **ÁUDIO**
+* [**ÁUDIO**](audio_indice.md)
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
        * [Estágios de ganho](audio_estagiosGanho.md)
