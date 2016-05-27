@@ -10,6 +10,8 @@
        * [Argumentos / métodos / mensagens](prog_argMetMnsg.md)
        * [Operadores](prog_operadores.md)
        * [Sintaxe e palavras reservadas](prog_sintaxe.md)
+
+* [AUDIO](audio_indice.md)
    * Acústica e teoria de áudio
        * [Periodicidade](audio_periodicidade.md)
        * [Estágios de ganho](audio_estagiosGanho.md)
