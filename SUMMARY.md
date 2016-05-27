@@ -1,7 +1,7 @@
 # ÍNDICE
 
-* [Como usar esse livro](README.md)
-* [**PROJETOS**](projetos.md)
+* [COMO USAR ESSE LIVRO](README.md)
+* [PROJETOS](projetos.md)
 * [PROGRAMAÇÃO](prog_indice.md)
    * Básico
        * [Algoritmo e lógica de implementação](prog_algoLogica.md)
