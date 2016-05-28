@@ -1,6 +1,6 @@
 # ÍNDICE
 
-* [COMO USAR ESSE LIVRO](README.md)
+* [COMO USAR ESSE LIVRO...](README.md)
 
 * [PROJETOS](projetos.md)
   * [Projeto #4 - Sintetizador de síntese aditiva](proj_synth.md)
