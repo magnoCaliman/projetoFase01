@@ -41,6 +41,7 @@
            * [AM / RM](audio_mod_amRM.md)
            * [PWM](audio_mod_pwm.md)
            * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
+     * Síntese
        * Aditiva
            * [Espectro fixo](audio_aditiva_espcFixo.md)
        * [Tabela de onda](audio_tabOnda.md)
