@@ -8,7 +8,7 @@
 Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
 
 * [Série harmônica](audio_relacaoFormaOndaSerHarm.md) (!)
-* [Síntese aditiva](audio_aditiva_espcFixo.md) (!!)
+* [Síntese aditiva - Espectro fixo](audio_aditiva_espcFixo.md) (!!)
 * [FFT](audio_dft.md) (!!!)
 <p>
 
@@ -18,5 +18,7 @@ Na área de teoria do computação, esse projeto lida com os seguintes tópicos:
 * [Funções / rampas](prog_funcoes.md) (!!)
 * [Orientação a objetos](prog_oop.md) (!!!)
 ---
+
+### Sugestões de modificação
 
 Os códigos desse projeto podem ser baixados [aqui.]()
