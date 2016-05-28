@@ -19,11 +19,11 @@ Na área de teoria do computação, esse projeto lida com os seguintes tópicos:
 * [Orientação a objetos](prog_oop.md) (!!!)
 ---
 
-### Sugestões de modificação
-1. sadf
-2. asdf
-  3. asfd
-  4. asdf
-
-
 Os códigos desse projeto podem ser baixados [aqui.]()
+
+### Sugestões de modificação
+Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas sobre o código base apresentado no vídeo:
+- Controle individual de afinação de cada parcial harmônica
+- Utilização de outras formas de onda que não senóides
+
+(talvez mudar para uma redação de "desafios sugeridos"?)
