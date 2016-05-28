@@ -23,11 +23,11 @@
        * [Batimentos](audio_batimentos.md)
        * [Conversão e representação de sinal](audio_conversao.md)
        * [Relação forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
-           * DSP
-       * [DC Offset e multiplicação](audio_dcOffMul.md)
-       * Filtragem
-           * EQ
-               * [Paramétrico](audio_filtragem_eq_parametrico.md)
+   * DSP
+     * [DC Offset e multiplicação](audio_dcOffMul.md)
+     * Filtragem
+       * EQ
+         * [Paramétrico](audio_filtragem_eq_parametrico.md)
        * Atraso de sinal
            * [Delay](audio_delay.md)
        * Processamentos de dinâmica
