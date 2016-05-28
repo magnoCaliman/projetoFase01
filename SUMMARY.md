@@ -1,6 +1,6 @@
 # ÍNDICE
 
-* [COMO USAR ESSE LIVRO](README.md)
+* [COMO USAR ESSE LIVRO...](README.md)
 
 * [PROJETOS](projetos.md)
   * [Projeto #4 - Sintetizador de síntese aditiva](proj_synth.md)
@@ -29,18 +29,18 @@
     * Filtragem
       * EQ
         * [Paramétrico](audio_filtragem_eq_parametrico.md)
-      * Atraso de sinal
-        * [Delay](audio_delay.md)
-      * Processamentos de dinâmica
-        * [Normalização](audio_normalizacao.md)
-          * Compressores
-            * [Downward / upward](audio_comp_downUp.md)
-       * [Sampling](audio_sampling.md)
-       * [Formas de onda](audio_formasOnda.md)
-       * Modulações
-         * [AM / RM](audio_mod_amRM.md)
-         * [PWM](audio_mod_pwm.md)
-         * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
+    * Atraso de sinal
+      * [Delay](audio_delay.md)
+    * Processamentos de dinâmica
+      * [Normalização](audio_normalizacao.md)
+        * Compressores
+          * [Downward / upward](audio_comp_downUp.md)
+     * [Sampling](audio_sampling.md)
+     * [Formas de onda](audio_formasOnda.md)
+     * Modulações
+       * [AM / RM](audio_mod_amRM.md)
+       * [PWM](audio_mod_pwm.md)
+       * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
 
  * SÍNTESE
    * Aditiva
