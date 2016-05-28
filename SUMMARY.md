@@ -15,32 +15,33 @@
      * [Sintaxe e palavras reservadas](prog_sintaxe.md)
 
 * [AUDIO](audio_indice.md)
-   * Acústica e teoria de áudio
-       * [Periodicidade](audio_periodicidade.md)
-       * [Estágios de ganho](audio_estagiosGanho.md)
-       * [Representações de amplitude](audio_represAmp.md)
-       * [Interferências construtiva e destrutiva](audio_interConsDest.md)
-       * [Batimentos](audio_batimentos.md)
-       * [Conversão e representação de sinal](audio_conversao.md)
-       * [Relação forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
-   * DSP
-     * [DC Offset e multiplicação](audio_dcOffMul.md)
-     * Filtragem
-       * EQ
-         * [Paramétrico](audio_filtragem_eq_parametrico.md)
-       * Atraso de sinal
-           * [Delay](audio_delay.md)
-       * Processamentos de dinâmica
-           * [Normalização](audio_normalizacao.md)
-           * Compressores
-               * [Downward / upward](audio_comp_downUp.md)
+  * ACÚSTICA E TEORIA DE ÁUDIO
+    * [Periodicidade](audio_periodicidade.md)
+    * [Estágios de ganho](audio_estagiosGanho.md)
+    * [Representações de amplitude](audio_represAmp.md)
+    * [Interferências construtiva e destrutiva](audio_interConsDest.md)
+    * [Batimentos](audio_batimentos.md)
+    * [Conversão e representação de sinal](audio_conversao.md)
+    * [Relação forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
+ 
+  * DSP
+    * [DC Offset e multiplicação](audio_dcOffMul.md)
+    * Filtragem
+      * EQ
+        * [Paramétrico](audio_filtragem_eq_parametrico.md)
+      * Atraso de sinal
+        * [Delay](audio_delay.md)
+      * Processamentos de dinâmica
+        * [Normalização](audio_normalizacao.md)
+          * Compressores
+            * [Downward / upward](audio_comp_downUp.md)
        * [Sampling](audio_sampling.md)
-           * Síntese
        * [Formas de onda](audio_formasOnda.md)
        * Modulações
-           * [AM / RM](audio_mod_amRM.md)
-           * [PWM](audio_mod_pwm.md)
-           * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
+         * [AM / RM](audio_mod_amRM.md)
+         * [PWM](audio_mod_pwm.md)
+         * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
+
    * SÍNTESE
      * Aditiva
        * [Espectro fixo](audio_aditiva_espcFixo.md)
