@@ -41,10 +41,10 @@
            * [AM / RM](audio_mod_amRM.md)
            * [PWM](audio_mod_pwm.md)
            * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
-     * Síntese
-       * Aditiva
-           * [Espectro fixo](audio_aditiva_espcFixo.md)
-       * [Tabela de onda](audio_tabOnda.md)
-       * Modelo analógico
-           * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
+   * SÍNTESE
+     * Aditiva
+       * [Espectro fixo](audio_aditiva_espcFixo.md)
+     * [Tabela de onda](audio_tabOnda.md)
+     * Modelo analógico
+       * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
 
