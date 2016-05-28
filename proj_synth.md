@@ -7,7 +7,7 @@
 ---
 Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
 
-* [Série harmônica](audio_serHarm.md) (!)
+* [Série harmônica](audio_relacaoFormaOndaSerHarm.md) (!)
 * [Síntese aditiva](audio_addSynth.md) (!!)
 * [FFT](audio_dft.md) (!!!)
 <p>
