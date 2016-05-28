@@ -1,8 +1,6 @@
 #Projeto #4 - Sintetizador de síntese aditiva
 
-<p align="center">
-  <img src="youtube-vid.jpg"/>
-</p>
+{%youtube%}hTyjYaPMAhI{%endyoutube%}
 
 ### Construção de um sintetizador via algoritmo de síntese aditiva.
 
