@@ -1,6 +1,6 @@
 # ÍNDICE
 
-* [COMO USAR ESSE LIVRO...](README.md)
+* [COMO USAR ESSE LIVRO](README.md)
 
 * [PROJETOS](projetos.md)
   * [Projeto #4 - Sintetizador de síntese aditiva](proj_synth.md)
@@ -42,10 +42,10 @@
          * [PWM](audio_mod_pwm.md)
          * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md)
 
-   * SÍNTESE
-     * Aditiva
-       * [Espectro fixo](audio_aditiva_espcFixo.md)
-     * [Tabela de onda](audio_tabOnda.md)
-     * Modelo analógico
-       * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
+ * SÍNTESE
+   * Aditiva
+     * [Espectro fixo](audio_aditiva_espcFixo.md)
+   * [Tabela de onda](audio_tabOnda.md)
+   * Modelo analógico
+     * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md)
 
