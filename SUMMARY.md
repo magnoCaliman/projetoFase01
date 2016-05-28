@@ -1,15 +1,18 @@
 # ÍNDICE
 
 * [COMO USAR ESSE LIVRO](README.md)
+
 * [PROJETOS](projetos.md)
+  * [Projeto #4 - Sintetizador de síntese aditiva](proj_synth.md)
+ 
 * [PROGRAMAÇÃO](prog_indice.md)
    * Básico
-       * [Algoritmo e lógica de implementação](prog_algoLogica.md)
-       * [Variáveis e data types](prog_variaveis.md)
-       * [Recursividade e iteração](prog_recursividade.md)
-       * [Argumentos / métodos / mensagens](prog_argMetMnsg.md)
-       * [Operadores](prog_operadores.md)
-       * [Sintaxe e palavras reservadas](prog_sintaxe.md)
+     * [Algoritmo e lógica de implementação](prog_algoLogica.md)
+     * [Variáveis e data types](prog_variaveis.md)
+     * [Recursividade e iteração](prog_recursividade.md)
+     * [Argumentos / métodos / mensagens](prog_argMetMnsg.md)
+     * [Operadores](prog_operadores.md)
+     * [Sintaxe e palavras reservadas](prog_sintaxe.md)
 
 * [AUDIO](audio_indice.md)
    * Acústica e teoria de áudio
