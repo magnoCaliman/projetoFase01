@@ -2,11 +2,11 @@
 
 * [COMO USAR ESSE LIVRO...](README.md)
 
-* [PROJETOS](projetos.md)
+* PROJETOS
   * [Projeto #4 - Sintetizador de síntese aditiva](proj_synth.md)
  
-* [PROGRAMAÇÃO](prog_indice.md)
-   * BÁSICO
+* PROGRAMAÇÃO
+  * BÁSICO
      * [Algoritmo e lógica de implementação](prog_algoLogica.md)
      * [Variáveis e data types](prog_variaveis.md)
      * [Recursividade e iteração](prog_recursividade.md)
@@ -14,7 +14,7 @@
      * [Operadores](prog_operadores.md)
      * [Sintaxe e palavras reservadas](prog_sintaxe.md)
 
-* [AUDIO](audio_indice.md)
+* AUDIO
   * ACÚSTICA E TEORIA DE ÁUDIO
     * [Periodicidade](audio_periodicidade.md)
     * [Estágios de ganho](audio_estagiosGanho.md)
