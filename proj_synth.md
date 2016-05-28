@@ -20,5 +20,10 @@ Na área de teoria do computação, esse projeto lida com os seguintes tópicos:
 ---
 
 ### Sugestões de modificação
+1. sadf
+2. asdf
+  3. asfd
+  4. asdf
+
 
 Os códigos desse projeto podem ser baixados [aqui.]()
