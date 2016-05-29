@@ -21,7 +21,7 @@ Na área de teoria do computação, esse projeto lida com os seguintes tópicos:
 
 Os códigos desse projeto podem ser baixados [aqui.]()
 
-### Sugestões de modificação
+### Desafios sugeridos
 Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas sobre o código base apresentado no vídeo:
 - Controle individual de afinação de cada parcial harmônica
 - Utilização de outras formas de onda que não senóides
