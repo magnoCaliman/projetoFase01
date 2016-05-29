@@ -4,16 +4,25 @@
 
 Os conceitos apresentados aqui são utilizados na implementação dos seguintes projetos:
 
-* lista projetos
+* [Projeto #4 - Sintetizador](projetos_synth.md)
 
 ---
 
 
 ## Texto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu pulvinar risus. Vivamus vestibulum, arcu at porttitor sagittis, tortor sapien pellentesque lectus, et fringilla orci nisi in sapien. Duis vitae ultrices risus. Nunc suscipit enim sed tristique porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque mauris metus, dapibus a congue ac, tincidunt ac libero. Donec nulla ligula, feugiat vel sodales et, lobortis et lorem. Phasellus nec ex tincidunt eros mattis vulputate fringilla sed odio. Fusce tincidunt fermentum euismod. Donec at ultricies arcu. Nam ornare sagittis pellentesque. Praesent dictum purus enim, eu posuere elit lacinia ac. Duis pretium vel sapien sit amet maximus. Cras id iaculis nibh.
+Lorem ipsum dolor sit amet, mea ad ponderum mnesarchum, id has nonumes fuisset cotidieque, vocibus deserunt his an. Pri impetus abhorreant an, case ceteros denique ad his. In qui dicunt oportere repudiare, commune sadipscing consectetuer te mei. Vix inani menandri splendide ad, forensibus posidonium his ex.
 
-Aenean dolor tortor, blandit a malesuada vel, pellentesque luctus sem. Cras bibendum mattis ex eget imperdiet. Aliquam placerat diam ac massa aliquam, et tincidunt libero porta. Vivamus congue, dolor quis accumsan luctus, lectus turpis commodo nulla, nec ornare turpis leo nec libero. Sed hendrerit nisl non pharetra scelerisque. Pellentesque id ornare massa, id ornare nibh. Curabitur sit amet tincidunt sem. Donec bibendum magna quis nisi fringilla, vitae efficitur massa molestie. Quisque laoreet sollicitudin augue quis pulvinar. In mattis ipsum vel augue dignissim, quis efficitur urna lacinia. Curabitur accumsan tempus quam ut gravida. Cras ut quam pharetra, mattis turpis at, vehicula erat. Nam id nulla rutrum, aliquam est eget, pulvinar neque. Aliquam varius tincidunt metus. Curabitur lorem enim, tempus nec arcu vitae, vestibulum pellentesque mauris.
+Vix et consequat similique, ut partem sapientem conclusionemque pro. Sea solet periculis an, in cum legendos repudiandae theophrastus, usu ei iuvaret tibique periculis. Ei mel lorem mollis, at eos movet libris recusabo. Fuisset propriae mentitum ne nam, solum phaedrum accommodare eos in. Iisque incorrupte at vim, quo an detracto scripserit. Nec ut meis regione, pro in oratio democritum, pri quas commune ea.
+
+![](sin.png)
+
+Ei eum inciderint, eos et eius exerci erroribus. Ex exerci audire admodum sit, zril sententiae ut qui. Per cibo lobortis no, cu eros erroribus sea. Eu euismod delicatissimi has, invenire pericula assueverit ex duo. At bonorum deleniti cum. Mea alia nihil ea, est at unum ornatus, in vis meis hendrerit.
+
+![](serHarm.png)
+
+Ei eum inciderint, eos et eius exerci erroribus. Ex exerci audire admodum sit, zril sententiae ut qui. Per cibo lobortis no, cu eros erroribus sea. Eu euismod delicatissimi has, invenire pericula assueverit ex duo. At bonorum deleniti cum. Mea alia nihil ea, est at unum ornatus, in vis meis hendrerit.
+Hinc similique usu ei. No has simul regione consequuntur, pri ad commodo aeterno, pri nisl reque at. Legendos constituto ad vel. Pro ea tollit fastidii sententiae.
 
 ## Referências
 
