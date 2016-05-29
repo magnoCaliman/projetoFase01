@@ -22,8 +22,10 @@ Na área de teoria da computação, esse projeto lida com os seguintes tópicos:
 Os códigos desse projeto podem ser baixados [aqui.]()
 
 ### Desafios sugeridos
+
 Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas sobre o código base apresentado no vídeo:
-- Controle individual de afinação de cada parcial harmônica
+
+- Controlar a frequência de cada parcial harmônica individualmente, afetando a [periodicidade da onda.](audio_periodicidade.md) 
 - Utilização de outras formas de onda que não senóides
 
 (talvez mudar para uma redação de "desafios sugeridos"?)
