@@ -26,5 +26,6 @@ Os códigos desse projeto podem ser baixados [aqui.]()
 É altamente recomendado que você explore e modifique, por conta própria, o código ensinado nesse video.<br>
 Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas:
 
-- Controlar a frequência de cada parcial harmônica individualmente, afetando a [periodicidade da onda.](audio_periodicidade.md) 
-- Adicionar algum tipo de [envelope dinâmico]() para 
+- Controlar a frequência de cada parcial harmônica individualmente, afetando a [periodicidade da onda](audio_periodicidade.md).
+- Adicionar algum tipo de [envelope dinâmico]() para controlar as amplitudes.
+- Resintetizar um sinal complexo através da análise de seu espectro via [FFT]().
