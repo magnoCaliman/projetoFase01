@@ -22,7 +22,7 @@
     * [Interferências construtiva e destrutiva](audio_interConsDest.md)
     * [Batimentos](audio_batimentos.md)
     * [Conversão e representação de sinal](audio_conversao.md)
-    * [Relação forma de onda / corpo vibrante / série harmônica](audio_relacaoFormaOndaSerHarm.md)
+    * [Série harmônica / forma de onda / corpo vibrante](audio_relacaoFormaOndaSerHarm.md)
  
   * DSP
     * [DC Offset e multiplicação](audio_dcOffMul.md)
