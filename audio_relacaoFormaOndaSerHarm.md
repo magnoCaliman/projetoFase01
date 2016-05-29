@@ -4,7 +4,7 @@
 
 Os conceitos apresentados aqui são utilizados na implementação dos seguintes projetos:
 
-* lista projetos
+* [Projeto #4 - Sintetizador](projetos_synth.md)
 
 ---
 
