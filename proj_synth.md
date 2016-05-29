@@ -23,9 +23,8 @@ Os códigos desse projeto podem ser baixados [aqui.]()
 
 ### Desafios sugeridos
 
-Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas sobre o código base apresentado no vídeo:
+É altamente recomendado que você explore e modifique, por conta própria, o código ensinado nesse video.<br>
+Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas:
 
 - Controlar a frequência de cada parcial harmônica individualmente, afetando a [periodicidade da onda.](audio_periodicidade.md) 
-- Utilização de outras formas de onda que não senóides
-
-(talvez mudar para uma redação de "desafios sugeridos"?)
+- Adicionar algum tipo de [envelope dinâmico]() para 
