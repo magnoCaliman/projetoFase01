@@ -1,4 +1,4 @@
-# Relaçao forma de onda / corpo vibrante / série harmônica
+# Relação entre forma de onda / corpo vibrante / série harmônica
 
 ---
 
