@@ -37,7 +37,7 @@ Uma vez que um código de Processing é, essencialmente, um arquivo de texto (um
 desenhe uma linha
 ```
 
-A resposta, porém, não é a tão esperada linha, mas sim uma mensagem de erro, onde o Processing educadamente diz que [ele não pode obedecer a minha instrução](https://www.youtube.com/watch?v=7qnd-hdmgfk "Processin, open the  pod bay doors."), e que `The class "desenhe" does not exist`.
+A resposta, porém, não é a tão esperada linha, mas sim uma mensagem de erro, onde o Processing educadamente diz que [ele não pode obedecer a minha instrução](https://www.youtube.com/watch?v=7qnd-hdmgfk "Processing, open the  pod bay doors."), e que `The class "desenhe" does not exist`.
 
 <center>![](./img/prog_palavrasReservadas_img1.png "Processing não entende português...")</center>
 <!-- entre colchetes é texto de acessibilidade. entre aspas é texto de hover -->
