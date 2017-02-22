@@ -2,7 +2,7 @@
 
 {%youtube%}51TJsgDWS8k{%endyoutube%}
 
-### Modulação em anel
+<!-- ### Modulação em anel -->
 
 ---
 Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
