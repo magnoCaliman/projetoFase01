@@ -1,4 +1,4 @@
-#Projeto #4 - Sintetizador de síntese aditiva
+#Projeto #1 - Modulação em anel
 
 {%youtube%}51TJsgDWS8k{%endyoutube%}
 
@@ -28,5 +28,5 @@ Os códigos desse projeto podem ser baixados [aqui.]()
 Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas:
 
 - Implemente um controle de [DC offset](), transformando a [modulação em anel]() em [modulação de amplitude]().
-- Adicionar algum tipo de [envelope dinâmico](), que trigue o a modulação somente, por exemplo, quando um botão do mouse é pressionado.
+- Adicione algum tipo de [envelope dinâmico](), que trigue a modulação somente, por exemplo, quando um botão do mouse for pressionado.
 - Controle a frequência moduladora através de um [step sequencer](), emulando [esse pedal de guitarra](https://www.youtube.com/watch?v=lBZO63OpNgc).

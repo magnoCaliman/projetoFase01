@@ -3,7 +3,7 @@
 * [COMO USAR ESSE LIVRO...](README.md)
 
 * PROJETOS
-  * [Modelo página projeto](proj_modelo.md)
+  * [Projeto #1 - Modulação em anel](proj_modelo.md)
  
 * PROGRAMAÇÃO
   * BÁSICO
