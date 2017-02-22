@@ -43,8 +43,8 @@
     <!--    * [LFO / audio rate (controle vs. sinal)](audio_mod_lfoAudioRate.md) -->
 
  * SÍNTESE
-   * Aditiva
+   <!-- * Aditiva -->
    <!--   * [Espectro fixo](audio_aditiva_espcFixo.md) -->
    <!-- * [Tabela de onda](audio_tabOnda.md) -->
-   * Modelo analógico
+   <!-- * Modelo analógico -->
      <!-- * [Múltiplos osciladores / detuning](audio_modAnal_multiOsc.md) -->
