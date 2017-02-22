@@ -1,22 +1,23 @@
 #Projeto #4 - Sintetizador de síntese aditiva
 
-{%youtube%}hTyjYaPMAhI{%endyoutube%}
+{%youtube%}51TJsgDWS8k{%endyoutube%}
 
-### Construção de um sintetizador via algoritmo de síntese aditiva.
+### Modulação em anel
 
 ---
 Na área de teoria do áudio, esse projeto lida com os seguintes tópicos:
 
-* [Série harmônica](audio_relacaoFormaOndaSerHarm.md) (!)
-* [Síntese aditiva - Espectro fixo](audio_aditiva_espcFixo.md) (!!)
-* [FFT](audio_dft.md) (!!!)
+* [Formas de onda]() (!)
+* [Modulação de amplitude]() (!!)
+* [FFT]() (!!!)
 <p>
 
 Na área de teoria da computação, esse projeto lida com os seguintes tópicos:
 
-* [Variáveis](prog_variaveis.md) (!)
-* [Funções / rampas](prog_funcoes.md) (!!)
-* [Orientação a objetos](prog_oop.md) (!!!)
+* [Variáveis]() (!)
+* [Funções]() (!!)
+* [Métodos e orientação a objetos]() (!!)
+
 ---
 
 Os códigos desse projeto podem ser baixados [aqui.]()
@@ -26,6 +27,6 @@ Os códigos desse projeto podem ser baixados [aqui.]()
 É altamente recomendado que você explore e modifique, por conta própria, o código ensinado nesse video.<br>
 Aqui estão algumas sugestões de novas funcionalidades e/ou modificações que podem ser implementadas:
 
-- Controlar a frequência de cada parcial harmônica individualmente, afetando a [periodicidade da onda](audio_periodicidade.md).
-- Adicionar algum tipo de [envelope dinâmico]() para controlar as amplitudes.
-- Resintetizar um sinal complexo através da análise de seu espectro via [FFT]().
+- Implemente um controle de [DC offset](), transformando a [modulação em anel]() em [modulação de amplitude]().
+- Adicionar algum tipo de [envelope dinâmico](), que trigue o a modulação somente, por exemplo, quando um botão do mouse é pressionado.
+- Controle a frequência moduladora através de um [step sequencer](), emulando [esse pedal de guitarra](https://www.youtube.com/watch?v=lBZO63OpNgc).
