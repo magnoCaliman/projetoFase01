@@ -4,7 +4,7 @@
  
 <!-- ## Intro -->
 
-Todo aprendizado em programação deve partir de uma realização que, em um primeiro momento, pode parecer bastante difícil de acreditar: computadores são, em essência, máquinas muito burras. 
+Todoo aprendizado em programação deve partir de uma realização que, em um primeiro momento, pode parecer bastante difícil de acreditar: computadores são, em essência, máquinas muito burras. 
 Apesar de serem capazes de controlar o pouso e decolagem de um avião, ou de conseguirem achar - em uma fração de segundo - [centenas de fotos de gatos de chapéu](https://duckduckgo.com/?q=cats+in+a+hat&ia=images&iax=1 "São gatos. De chapéu..."), computadores ainda são dispositivos extremamente limitados nas suas capacidades.
 
 Um computador é capaz de fazer _uma_ coisa muito bem: análise e manipulação de números. Pequenas operações matemáticas, como somar, subtrair, ou comparar dois valores numéricos diferentes. Isso um computador é capaz de fazer mais rapidamente, e com uma maior taxa de acertos do que qualquer matemático ou enxadrista (humano) jamais sonhou.
@@ -71,8 +71,6 @@ Repare que a função `line();` não é _apenas a palavra line_ (isso nós tenta
 Porém mesmo usando o vocabulário correto, e a _sintaxe_ correta, com a função `line();` temos outra mensagem de erro ao tentar rodar o nosso código.
 
 <center>![](./img/prog_palavrasReservadas_img4.png "line(); sem argumentos")</center>
-
-
 
 - isso se dá pq `line();`, mesmo sendo o comando correto, ainda cai na categoria de instruções genéricas que o computador não sabe interpretar. (assim como o exemplo de kant, ou as leis do assimov...)
 - só line não é suficiente.
