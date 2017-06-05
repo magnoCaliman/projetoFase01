@@ -52,9 +52,7 @@ draw a line
 
 e ver se o resultado é diferente.
 
-<center>
 ![](./img/prog_palavrasReservadas_img2.png "Também não entende inglês...")
-</center>
 
 Aparentemente não. Mesmo em inglês a mensagem de erro `The class "draw" does not exist` permanece.
 
