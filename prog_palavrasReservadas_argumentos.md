@@ -72,7 +72,7 @@ line();
 Repare que a função `line();` não é _apenas a palavra line_ (isso nós tentamos, quando escrevemos em inglês), mas a palavra _line_, seguida de parênteses, e um ponto e vírgula.
 Porém mesmo usando o vocabulário correto, e a _sintaxe_ correta, com a função `line();` temos outra mensagem de erro ao tentar rodar o nosso código.
 
-<center>![](./img/prog_palavrasReservadas_img4.png "line(); sem argumentos")</center>
+![](./img/prog_palavrasReservadas_img4.png "line(); sem argumentos")
 
 - isso se dá pq `line();`, mesmo sendo o comando correto, ainda cai na categoria de instruções genéricas que o computador não sabe interpretar. (assim como o exemplo de kant, ou as leis do assimov...)
 - só line não é suficiente.
@@ -88,7 +88,7 @@ funcao(argumento_1, argumento_2, ... ,  argumento_n);
 line(0, 0, 50, 50);
 ```
 
-<center>![](./img/prog_palavrasReservadas_img3.png "título...")</center>
+![](./img/prog_palavrasReservadas_img3.png "título...")
 
 
 ## notas
