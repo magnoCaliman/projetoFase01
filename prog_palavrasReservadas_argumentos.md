@@ -4,7 +4,7 @@
  
 <!-- ## Intro -->
 
-Todoo aprendizado em programação deve partir de uma realização que, em um primeiro momento, pode parecer bastante difícil de acreditar: computadores são, em essência, máquinas muito burras. 
+Todo aprendizado em programação deve partir de uma realização que, em um primeiro momento, pode parecer bastante difícil de acreditar: computadores são, em essência, máquinas muito burras. 
 Apesar de serem capazes de controlar o pouso e decolagem de um avião, ou de conseguirem achar - em uma fração de segundo - [centenas de fotos de gatos de chapéu](https://duckduckgo.com/?q=cats+in+a+hat&ia=images&iax=1 "São gatos. De chapéu..."), computadores ainda são dispositivos extremamente limitados nas suas capacidades.
 
 Um computador é capaz de fazer _uma_ coisa muito bem: análise e manipulação de números. Pequenas operações matemáticas, como somar, subtrair, ou comparar dois valores numéricos diferentes. Isso um computador é capaz de fazer mais rapidamente, e com uma maior taxa de acertos do que qualquer matemático ou enxadrista (humano) jamais sonhou.
@@ -39,7 +39,9 @@ desenhe uma linha
 
 A resposta, porém, não é a tão esperada linha, mas sim uma mensagem de erro, onde o Processing educadamente diz que [ele não pode obedecer a minha instrução](https://www.youtube.com/watch?v=7qnd-hdmgfk "Processing, open the  pod bay doors."), e que `The class "desenhe" does not exist`.
 
-<center>![](./img/prog_palavrasReservadas_img1.png "Processing não entende português...")</center>
+<!-- <center> -->
+![](./img/prog_palavrasReservadas_img1.png "Processing não entende português...")
+<!-- </center> -->
 <!-- entre colchetes é texto de acessibilidade. entre aspas é texto de hover -->
 
 Talvez seja uma incompatibilidade entre o fato de estar escrevendo em português, e a língua oficial de boa parte das linguagens de programação ser o inglês. Vamos tentar
@@ -50,7 +52,9 @@ draw a line
 
 e ver se o resultado é diferente.
 
-<center>![](./img/prog_palavrasReservadas_img2.png "Também não entende inglês...")</center>
+<center>
+![](./img/prog_palavrasReservadas_img2.png "Também não entende inglês...")
+</center>
 
 Aparentemente não. Mesmo em inglês a mensagem de erro `The class "draw" does not exist` permanece.
 
